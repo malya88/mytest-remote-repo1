@@ -1,1 +1,2 @@
 This is a third text file created under branch feature1 on remote repository
+Text file updated under in local reo under  branch feature1
